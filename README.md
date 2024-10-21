@@ -7,4 +7,4 @@
 * Tema: Algoritmos básicos de programação em linguagem python e visualização e análise de dados
 * Conteúdo: Módulo 1 e 2
 
-**18/2024**
+**10/2024**

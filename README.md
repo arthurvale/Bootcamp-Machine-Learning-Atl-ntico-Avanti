@@ -1,9 +1,10 @@
-# Bootcamp-Machine-Learning-Atlântico-Avanti
+# CURSO: <BÁSICO EM MACHINE LEARNING>
+
 
 *   Escola: Atlântico Avanti
-*   Aluno: Arthur Vale Fonseca
+*   Aluno: Andressa Siqueira Monte, Arthur Vale Fonseca, Bernardo de Lima Melo, Francisco Alisson Ribeiro da Costa, George Lucas Silva Leitao, Kayky bezerra da silva, Natalia da Costa Silva e Samuel Cassiano de Abreu
+*  Atividade: 4 - 1ª estapa
+* Tema: Projeto de classificação de imagens
+* Conteúdo: Módulo 3
 
-## Branches
-* Atividade 2: Algoritmos básicos de programação em linguagem python e visualização e análise de dados.
-
-**18/2024**
+**10/2024**

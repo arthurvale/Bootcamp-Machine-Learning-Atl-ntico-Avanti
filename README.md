@@ -11,7 +11,7 @@
 - **Dataset**: [Kaggle - Fruit and Vegetable Image Recognition](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/data)
 - **Notebook**: '[Dados_teste]classificação_imagens.ipynb' - Jupyter Notebook que apresenta as informações do conjunto de dados de treino.
 
-  ### Verificações:
+  - Verificações:
 
   1. Ausência de dados
   2. Intervalo dos dados numéricos

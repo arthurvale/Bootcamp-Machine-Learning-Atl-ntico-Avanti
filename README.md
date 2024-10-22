@@ -51,7 +51,7 @@
       </tr>
       <tr>
         <td>Número de Imagens de Teste <br> Presentes no Conjunto de Treino</td>
-        <td>349</td>
+        <td>348</td>
       </tr>
     </tbody>
   </table>

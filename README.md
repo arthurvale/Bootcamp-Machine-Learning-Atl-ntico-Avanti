@@ -19,8 +19,8 @@
   4. Dados corrompidos
   5. Número de imagens por classe
   6. Imagens duplicadas no dataset
-     - 6.1 Imagens presentes em 2 classes diferentes
-     - 6.2 Imagens iguais no conjunto de treino e no conjunto de teste
+     -  Imagens presentes em 2 classes diferentes
+     -  Imagens iguais no conjunto de treino e no conjunto de teste
 
 ## Principais conclusões e resultados
 

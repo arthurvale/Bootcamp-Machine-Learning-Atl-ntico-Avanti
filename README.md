@@ -66,5 +66,5 @@
   - Dados duplicados dentro de uma mesma classe também pode confundir a interpretação dos reusltados, uma vez que avaliando uma mesma imagem de teste N vezes a taxa de acerto do modelo treinado pode se aumentar, entretanto este aumento mostra que o modelo generaliza bem, pois ele pode estar bem ajustado especificamente para a imagem que está repetido no teste, inflando os resultados corretos.
 - Existem dados duplicados entre o conjunto de Teste e Treino, sendo que para que o modelo generalize bem os dados de teste não devem existir nos dados de treino, isto pode sobreajustar o modelo.
 - Nos trabalhos seguintes abordaremos rotinas para o tratamento das inconsistências presentes neste dataset.
-- 
+
 **Data**: 10/2024

@@ -23,5 +23,38 @@
      -  Imagens iguais no conjunto de treino e no conjunto de teste
 
 ## Principais conclusões e resultados
-
+<div align="center">
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Verificação</th>
+        <th>Resultado</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Número de Dados Ausentes</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Número de Imagens Corrompidos</td>
+        <td>0</td>
+      </tr>
+      <tr>
+        <td>Número de Imagens Duplicadas</td>
+        <td>26</td>
+      </tr>
+      <tr>
+        <td>Número de Imagens Multiclasses</td>
+        <td>3</td>
+      </tr>
+      <tr>
+        <td>Número de Imagens de Teste <br> Presentes no Conjunto de Treino</td>
+        <td>349</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+</div>
 **Data**: 10/2024

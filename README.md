@@ -10,7 +10,7 @@
 
 - **Dataset**: [Kaggle - Fruit and Vegetable Image Recognition](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/data)
 - **Notebook**: [Dataset_fruit_and_vegetable_image_recognition[1].ipynb]
-- **Apresentação:**
+- **Apresentação:** [Apresentacao Final _bootcamp Avanti.pptx]
 
 
-**Data**: 10/2024
+**Data**: 11/2024

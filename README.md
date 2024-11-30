@@ -8,7 +8,7 @@
 
 ## Arquivos
 
-- **Dataset**: [Kaggle - Fruit and Vegetable Image Recognition](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/data)
+- **Dataset**: 👉 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/data) 👈
 - **Notebook**: [Dataset_fruit_and_vegetable_image_recognition[1].ipynb]
 - **Apresentação:** [Apresentacao Final _bootcamp Avanti.pptx]
 

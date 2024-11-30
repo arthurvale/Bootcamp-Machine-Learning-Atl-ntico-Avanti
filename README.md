@@ -14,8 +14,8 @@
 
 ## Overview do Jupyter Notebook
 
-- **ETAPA 01.**
-- **ETAPA 02**
+- **ETAPA 01.**: Análise exploratória das pastas de imagens disponíveis no Kaggle;
+- **ETAPA 02**: Overview a respeito do modelo proposto em: 👉 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/nimapourmoradi/fruits-and-vegetables-image-mobilenetv2/notebook) 👈
 - **ETAPA 03**
   - **ETAPA 03.1**
   - **ETAPA 03.2**

@@ -9,8 +9,8 @@
 ## Arquivos
 
 - **Dataset**: 👉 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition/data) 👈
-- **Notebook**: 👉 [![GitHub Badge](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurvale/Bootcamp-Machine-Learning-Atlantico-Avanti/blob/Atividade-04---Final/Dataset_fruit_and_vegetable_image_recognition%5B1%5D.ipynb)
-- **Apresentação:** [Apresentacao Final _bootcamp Avanti.pptx]
+- **Notebook**: 👉 [![GitHub Badge](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurvale/Bootcamp-Machine-Learning-Atlantico-Avanti/blob/Atividade-04---Final/Dataset_fruit_and_vegetable_image_recognition%5B1%5D.ipynb)👈
+- **Apresentação:**: 👉 [![GitHub Badge](https://img.shields.io/badge/-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurvale/Bootcamp-Machine-Learning-Atlantico-Avanti/blob/Atividade-04---Final/Apresentacao%20Final%20_bootcamp%20Avanti.pptx)👈
 
 ## Overview do Jupyter Notebook
 

@@ -12,5 +12,13 @@
 - **Notebook**: [Dataset_fruit_and_vegetable_image_recognition[1].ipynb]
 - **Apresentação:** [Apresentacao Final _bootcamp Avanti.pptx]
 
+## Overview do Jupyter Notebook
+
+- a
+- a
+- a
+- a
+- a
+  
 
 **Data**: 11/2024

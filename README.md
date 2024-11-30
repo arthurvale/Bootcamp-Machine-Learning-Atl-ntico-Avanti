@@ -9,4 +9,4 @@
 * Atividade-04---Final: Jupyter Notebook referente ao trabalho final: Classificação de Imagens de Frutas e vegetais através de CNNs.
 
 
-**18/2024**
+**11/2024**

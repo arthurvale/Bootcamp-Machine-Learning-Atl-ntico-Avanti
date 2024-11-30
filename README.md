@@ -14,11 +14,11 @@
 
 ## Overview do Jupyter Notebook
 
-- a
-- a
-- a
-- a
-- a
+- **ETAPA 01.**
+- **ETAPA 02**
+- **ETAPA 03**
+  - **ETAPA 03.1**
+  - **ETAPA 03.2**
   
 
 **Data**: 11/2024
